@@ -49,10 +49,16 @@ To set APP Key
 ## OUTPUT 
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
 
+## gateway:
+![Screenshot 2024-04-23 112134](https://github.com/pawan2006-png/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/150067867/1b6cba4b-4079-4d6a-8cd6-262fa048ab3b)
 
+## channel:
+
+![Screenshot 2024-04-23 112010](https://github.com/pawan2006-png/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/150067867/094d4ca5-278a-473f-bae4-b37be6c0d710)
 
 
 ## Results: 
+
 
   The Network server and end device for traferring data on the network has been accomplished.
 
